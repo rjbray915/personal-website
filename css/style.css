@@ -1,0 +1,35 @@
+html {
+    font-size: 16px;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #CCE3B4;
+}
+
+p {
+    color: red;
+}
+
+h1{
+    font-size: 40px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+h1:hover{
+    color: #B4E3E3;
+    text-shadow: 1px 1px 1px black;
+}
+
+p,
+li {
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+img {
+    display: block;
+}
